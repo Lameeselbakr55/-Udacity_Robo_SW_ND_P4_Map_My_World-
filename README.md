@@ -147,7 +147,7 @@ $ roslaunch <YOUR PACKAGE NAME> mapping.launch
 
 ### Open mapping database:
 
-Download rtabmap.db file from : https://tinyurl.com/y88nuwyq
+Download rtabmap.db file from : https://drive.google.com/file/d/11FgBxC6DosTD-ubYuXPAf5RSIk--KhTV/view?usp=sharing
 
 ```
 $ rtabmap-databaseViewer  rtabmap.db
