@@ -1,6 +1,8 @@
 # -Udacity_Robo_SW_ND_P4_Map_My_World-
 Using RTAB-Map &amp; SLAM Project with ROS kinetic, Project 4 (Map My World) for Udacity Robotics Software Engineer Nanodegree Program 
 
+![Map View ](https://user-images.githubusercontent.com/98288035/156587131-65a76ca6-468d-4948-a0de-b6cf1aa8b98e.PNG)
+
 # Project Overview
 
 Welcome to the MAp My World? SLAM project! In this project, We will learn to utilize ROS AMCL package to accurately localize a mobile robot inside a map in the Gazebo simulation environments.
